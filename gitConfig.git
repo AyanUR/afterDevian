@@ -1,0 +1,7 @@
+//create new repository
+touch README.md //opcional
+git init
+git add README.md //opcional
+git commit -m "first commit"
+git remote add origin git@github.com:AyanUR/books.git
+git push -u origin master
